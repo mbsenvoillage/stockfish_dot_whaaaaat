@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyledCatchCall } from "./CatchCall.styled";
+import fish from '../../assets/images/stockfish-draw.png';
 
 export default function SectionCatchCall(props) {
     return (

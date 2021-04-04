@@ -6,8 +6,7 @@ import { StyledSectionContainer } from "./SectionContainer.styled";
 export default function SectionContainer() {
     return (
         <StyledSectionContainer>
-            <SectionCatchCall/>
-            <SectionSubCall subcalltxt="call me, anytime"/>
+
         </StyledSectionContainer>
     )
 }
